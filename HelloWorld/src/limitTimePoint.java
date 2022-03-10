@@ -4,5 +4,6 @@ public class limitTimePoint {
 	private Long numberPoint;
 	private String dateLimitPoint;
 	private String aaa;
+	private int c;
 	
 }
