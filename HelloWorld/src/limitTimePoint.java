@@ -7,5 +7,5 @@ public class limitTimePoint {
 	private String D;
 	private String E;
 	private String S;
-	private String ;
+	private String ssssss;
 }
