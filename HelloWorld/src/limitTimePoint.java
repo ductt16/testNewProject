@@ -9,4 +9,5 @@ public class limitTimePoint {
 	private String S;
 	private String ssssss;
 	private String ee;
+	private String duc;
 }
