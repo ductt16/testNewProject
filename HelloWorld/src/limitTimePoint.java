@@ -4,5 +4,4 @@ public class limitTimePoint {
 	private Long numberPoint;
 	private String dateLimitPoint;
 	private String b;
-	
 }
