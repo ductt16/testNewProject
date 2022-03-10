@@ -12,5 +12,5 @@ public class limitTimePoint {
 	private String ee;
 	private String saa;
 	private String tuuuuu;
-	private String duc;
+	private String hoang;
 }

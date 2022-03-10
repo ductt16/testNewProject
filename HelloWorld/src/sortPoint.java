@@ -2,7 +2,7 @@
 public class sortPoint {
 	
 	public static void main() {
-		System.out.println("aaaaa");
+		System.out.println("ssss");
 	}
 
 }
