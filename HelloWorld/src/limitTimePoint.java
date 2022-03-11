@@ -3,10 +3,16 @@ public class limitTimePoint {
 	private String namePoint;
 	private Long numberPoint;
 	private String dateLimitPoint;
-<<<<<<< master
 	private String b;
 	private String D;
-=======
-	
->>>>>>> 82e2838 commit 2
+	private String E;
+	private String S;
+	private String ssssss;
+	private String ml;
+	private String ee;
+	private String saa;
+	private String tuuuuu;
+	private String hoang;
+	private String hai;
+	private String ducthan ;
 }
